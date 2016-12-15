@@ -90,6 +90,9 @@
 		885D4A661D2A77C400ABECCE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					"use size classes",
+				);
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "Justin Markiet";
